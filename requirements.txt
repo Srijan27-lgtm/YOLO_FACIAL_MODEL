@@ -1,0 +1,6 @@
+ultralytics>=8.0.0
+insightface>=0.7.3
+onnxruntime>=1.14.0
+opencv-python>=4.7.0
+huggingface_hub>=0.16.0
+numpy>=1.24.0
